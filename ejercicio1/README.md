@@ -1,0 +1,8 @@
+"pwd -- Imprimir la carpeta actual" 
+"cd -- Para desplazarme a la carpeta de escritorio" 
+"mkdir -- Para crear la carpeta ejercicios" 
+"git --config global user.name -- Para configurar el nombre de usuario en git" 
+"git --config global user.email -- Para configurar el email del usuario en git" 
+"git init -- Para inicializar el repositorio" 
+"git add . y git commit -m para crear un commit y darle un nombre para identificar lo que se modific¢ o se agreg¢" 
+"echo "mensaje" para agregar texto al archivo en una linea nueva" 
